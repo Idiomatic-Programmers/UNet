@@ -1,0 +1,6 @@
+CUB_200_2011
+checkpoint
+test
+*.tgz
+.idea/
+__pycache__
